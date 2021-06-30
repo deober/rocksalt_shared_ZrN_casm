@@ -51,4 +51,4 @@ python path/to/plot_clex_hull_data.py    /full/path/to/this/directory/  id_numbe
 
 for example, assuming you are in the same directory as the fit data, plotting the data for the ECI fit with the lowest CV score is done by using the command:
 
-python path/to/plot_clex_hull_data.py  `pwd` 0
+python path/to/plot_clex_hull_data.py  \`pwd\` 0
