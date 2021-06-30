@@ -1,0 +1,48 @@
+I ran on:
+node144
+node144
+node144
+node144
+node150
+node150
+node150
+node150
+Construct a casm.vaspwrapper.Relax instance:
+  Input directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18
+  Configuration: SCEL8_8_1_1_0_5_2/18
+  Reading CASM settings
+  Calculations directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default
+  Reading relax.json settings file
+  Read settings from: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/relax.json
+  DONE
+
+Constructing a VASP Relax object
+  Relax directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default
+VASP Relax object constructed
+
+Setting up VASP input files: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default
+  Reading KPOINTS: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/KPOINTS
+  Reading SPECIES: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/SPECIES
+  Reading supercell POS: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/POS
+  Reading INCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/INCAR
+  Generating supercell KPOINTS
+  Writing supercell POSCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default/POSCAR
+  Writing INCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default/INCAR
+  Writing supercell KPOINTS: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default/KPOINTS
+  Writing POTCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default/POTCAR
+  DONE
+
+Wrote /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default/status.json
+Begin VASP relaxation run
+
+++  status: incomplete   next task: setup
+Moving files into initial run directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default/run.0
+
+Begin vasp run:
+  jobdir: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_8_1_1_0_5_2/18/calctype.default/run.0
+  exec: mpirun -np 8 vasp
+Most recent file output (std.err): 60.099873781204224  seconds ago.
+Most recent file output (std.err): 120.17805790901184  seconds ago.
+Most recent file output (std.err): 180.27308106422424  seconds ago.
+Most recent file output (std.err): 240.38781023025513  seconds ago.
+Most recent file output (std.err): 300.46884632110596  seconds ago.

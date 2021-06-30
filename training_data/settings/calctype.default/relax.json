@@ -1,0 +1,9 @@
+{
+"queue":"batch",
+"walltime":"50:00:00",
+"email":"dober@ucsb.edu",
+"ppn":"4",
+"atom_per_proc":"2",
+"run_limit":10,
+"nrg_convergence":0.002
+}

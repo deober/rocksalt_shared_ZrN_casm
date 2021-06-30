@@ -1,0 +1,17 @@
+{
+  "chemical_reference" : {
+    "global" : [
+      {
+        "N" : 0.000000000000,
+        "Zr" : 1.000000000000,
+        "energy_per_species" : -8.481012850000
+      },
+      {
+        "N" : 0.500000000000,
+        "Zr" : 0.500000000000,
+        "energy_per_species" : -10.184898480000
+      }
+    ],
+    "species_order" : [ "N", "Va", "Zr" ]
+  }
+}

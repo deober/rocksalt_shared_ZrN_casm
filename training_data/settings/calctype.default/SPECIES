@@ -1,0 +1,4 @@
+POTCAR_DIR_PATH = /home/dober/vaspDemo/vasp_potentials/PAW_PBE
+SPECIES    ALIAS    POTCAR  POTCAR_location
+N_normal   N        1       N
+Zr_sv      Zr       1       Zr_sv

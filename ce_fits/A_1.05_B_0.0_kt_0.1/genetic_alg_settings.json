@@ -1,0 +1,66 @@
+
+                            {
+                            "problem_specs": {
+                                "data": {
+                                "filename": "training_set.txt",
+                                "type": "selection",
+                                "X": "corr",
+                                "y": "formation_energy",
+                                "kwargs": null
+                                },
+                                "weight": {
+                                "method": "wHullDist",
+                                "kwargs": {
+                                    "A": 1.05,
+                                    "B": 0.0,
+                                    "kT": 0.1
+                                }
+                                },
+                                "cv": {
+                                "method": "KFold",
+                                "kwargs": {
+                                    "n_splits": 10,
+                                    "shuffle": true
+                                },
+                                "penalty": 0.0
+                                }
+                            },
+                            "estimator": {
+                                "method": "LinearRegression"
+                            },
+                            "feature_selection": {
+                                "method": "GeneticAlgorithm",
+                                "kwargs": {
+                                "constraints_kwargs": {
+                                    "n_features_max": 100,
+                                    "n_features_min": 3,
+                                    "fix_off": [],
+                                    "fix_on": [0,1,2]
+                                },
+                                "selTournamentSize": 3,
+                                "mutFlipBitProb": 0.01,
+                                "evolve_params_kwargs": {
+                                    "n_generation": 20,
+                                    "n_repetition": 20,
+                                    "n_features_init": 3,
+                                    "n_population": 10,
+                                    "n_halloffame": 10
+                                },
+                                "cxUniformProb": 0.5
+                                }
+                            },
+                            "n_halloffame": 10,
+
+                            "checkhull" : {
+                                "selection": "ALL",
+                                "write_results": true,
+                                "primitive_only": true,
+                                "uncalculated_range": 1e-8,
+                                "ranged_rms": [0.001, 0.005, 0.01, 0.05, 0.1, 0.5],
+                                "composition": "atom_frac",
+                                "hull_tol": 1e-8,
+                                "dim_tol": 1e-8,
+                                "bottom_tol": 1e-8
+                                }
+                            }
+                        

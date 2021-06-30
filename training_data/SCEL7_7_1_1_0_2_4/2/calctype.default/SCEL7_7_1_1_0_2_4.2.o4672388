@@ -1,0 +1,296 @@
+I ran on:
+node133
+node133
+node133
+node133
+node129
+node129
+node129
+node129
+Construct a casm.vaspwrapper.Relax instance:
+  Input directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2
+  Configuration: SCEL7_7_1_1_0_2_4/2
+  Reading CASM settings
+  Calculations directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default
+  Reading relax.json settings file
+  Read settings from: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/relax.json
+  DONE
+
+Constructing a VASP Relax object
+  Relax directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default
+VASP Relax object constructed
+
+Setting up VASP input files: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default
+  Reading KPOINTS: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/KPOINTS
+  Reading SPECIES: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/SPECIES
+  Reading supercell POS: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/POS
+  Reading INCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/settings/calctype.default/INCAR
+  Generating supercell KPOINTS
+  Writing supercell POSCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/POSCAR
+  Writing INCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/INCAR
+  Writing supercell KPOINTS: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/KPOINTS
+  Writing POTCAR: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/POTCAR
+  DONE
+
+Wrote /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/status.json
+Begin VASP relaxation run
+
+++  status: incomplete   next task: setup
+Moving files into initial run directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.0
+
+Begin vasp run:
+  jobdir: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.0
+  exec: mpirun -np 8 vasp
+Most recent file output (OUTCAR): 7.159230470657349  seconds ago.
+Most recent file output (OSZICAR): 0.0007505416870117188  seconds ago.
+Most recent file output (OSZICAR): 60.06655406951904  seconds ago.
+Most recent file output (std.out): 2.7975099086761475  seconds ago.
+Most recent file output (std.out): 62.961134910583496  seconds ago.
+Most recent file output (std.out): 9.781423091888428  seconds ago.
+Most recent file output (std.out): 69.88072848320007  seconds ago.
+Most recent file output (std.out): 10.8815016746521  seconds ago.
+Most recent file output (std.out): 70.97358679771423  seconds ago.
+Most recent file output (std.out): 23.12755250930786  seconds ago.
+Most recent file output (OUTCAR): 0.001088857650756836  seconds ago.
+Most recent file output (OSZICAR): 60.0954864025116  seconds ago.
+Most recent file output (vasprun.xml): 0.0016918182373046875  seconds ago.
+Most recent file output (vasprun.xml): 60.08575081825256  seconds ago.
+Most recent file output (OSZICAR): 0.0012166500091552734  seconds ago.
+Most recent file output (OSZICAR): 60.17490267753601  seconds ago.
+Most recent file output (std.out): 5.79420018196106  seconds ago.
+Most recent file output (std.out): 65.88438940048218  seconds ago.
+Most recent file output (std.out): 18.148658275604248  seconds ago.
+Most recent file output (vasprun.xml): 0.0013077259063720703  seconds ago.
+Most recent file output (OSZICAR): 60.10231924057007  seconds ago.
+Most recent file output (vasprun.xml): 0.0008726119995117188  seconds ago.
+Most recent file output (vasprun.xml): 60.10086941719055  seconds ago.
+Most recent file output (vasprun.xml): 0.0013418197631835938  seconds ago.
+Most recent file output (OUTCAR): -0.006054401397705078  seconds ago.
+Most recent file output (OUTCAR): 10.065799951553345  seconds ago.
+Most recent file output (OSZICAR): 0.0013201236724853516  seconds ago.
+Most recent file output (vasprun.xml): 23.5040385723114  seconds ago.
+Most recent file output (OSZICAR): 0.001790761947631836  seconds ago.
+Most recent file output (OSZICAR): 60.404648780822754  seconds ago.
+Most recent file output (std.out): 11.425799131393433  seconds ago.
+Most recent file output (std.out): 71.69340181350708  seconds ago.
+Most recent file output (std.out): 19.52193331718445  seconds ago.
+Most recent file output (std.out): 79.83296799659729  seconds ago.
+Most recent file output (std.out): 12.730688333511353  seconds ago.
+Most recent file output (std.out): 73.03650379180908  seconds ago.
+Most recent file output (std.out): 20.856725931167603  seconds ago.
+Most recent file output (std.out): 81.14620232582092  seconds ago.
+Most recent file output (std.out): 22.43712091445923  seconds ago.
+Most recent file output (OUTCAR): 0.0010936260223388672  seconds ago.
+Most recent file output (std.out): 27.32644248008728  seconds ago.
+Most recent file output (OUTCAR): -0.003210306167602539  seconds ago.
+Most recent file output (OUTCAR): 13.109975576400757  seconds ago.
+Most recent file output (OUTCAR): 0.0005757808685302734  seconds ago.
+Most recent file output (OUTCAR): 60.65092325210571  seconds ago.
+Most recent file output (std.out): 1.8480439186096191  seconds ago.
+Most recent file output (std.out): 62.47041201591492  seconds ago.
+Most recent file output (std.out): 18.205647706985474  seconds ago.
+Most recent file output (vasprun.xml): 0.0014107227325439453  seconds ago.
+Most recent file output (std.out): 28.61236071586609  seconds ago.
+Most recent file output (std.out): 89.11345601081848  seconds ago.
+Most recent file output (std.out): 21.301297664642334  seconds ago.
+Most recent file output (vasprun.xml): 0.001064300537109375  seconds ago.
+Most recent file output (std.out): 28.80311393737793  seconds ago.
+Most recent file output (OUTCAR): 0.0005559921264648438  seconds ago.
+Most recent file output (OSZICAR): 60.54013180732727  seconds ago.
+Most recent file output (OUTCAR): 0.0007228851318359375  seconds ago.
+Most recent file output (OUTCAR): -0.005197286605834961  seconds ago.
+Most recent file output (OUTCAR): 3.6343066692352295  seconds ago.
+Most recent file output (vasprun.xml): 0.0016124248504638672  seconds ago.
+Most recent file output (vasprun.xml): 20.416013717651367  seconds ago.
+Most recent file output (OUTCAR): 0.0008816719055175781  seconds ago.
+Most recent file output (OUTCAR): 60.627723932266235  seconds ago.
+Most recent file output (std.out): 6.455438613891602  seconds ago.
+Most recent file output (std.out): 67.15664482116699  seconds ago.
+Most recent file output (std.out): 17.24556040763855  seconds ago.
+Most recent file output (std.out): 77.82533288002014  seconds ago.
+Most recent file output (std.out): 16.81820511817932  seconds ago.
+Most recent file output (std.out): 77.3781008720398  seconds ago.
+Most recent file output (std.out): 20.207212209701538  seconds ago.
+Most recent file output (std.out): 80.75465273857117  seconds ago.
+Most recent file output (std.out): 20.588940858840942  seconds ago.
+Most recent file output (OUTCAR): 0.0012421607971191406  seconds ago.
+Most recent file output (OSZICAR): 60.81610465049744  seconds ago.
+Most recent file output (std.out): 25.90548086166382  seconds ago.
+Most recent file output (std.out): 86.69583511352539  seconds ago.
+Most recent file output (vasprun.xml): 11.622377872467041  seconds ago.
+Most recent file output (vasprun.xml): -0.007631778717041016  seconds ago.
+Most recent file output (OSZICAR): 60.76037120819092  seconds ago.
+Most recent file output (OSZICAR): 0.0013875961303710938  seconds ago.
+Most recent file output (OSZICAR): 60.75099563598633  seconds ago.
+Most recent file output (std.out): 12.16858172416687  seconds ago.
+Most recent file output (std.out): 72.98695635795593  seconds ago.
+Most recent file output (std.out): 24.129147052764893  seconds ago.
+Most recent file output (OUTCAR): 0.0005562305450439453  seconds ago.
+Most recent file output (OUTCAR): 61.048439264297485  seconds ago.
+Most recent file output (vasprun.xml): 1.3472294807434082  seconds ago.
+Most recent file output (vasprun.xml): 0.0005953311920166016  seconds ago.
+Most recent file output (OSZICAR): 61.066572189331055  seconds ago.
+Most recent file output (vasprun.xml): 0.0018715858459472656  seconds ago.
+Most recent file output (OSZICAR): 60.901018381118774  seconds ago.
+Most recent file output (OSZICAR): 0.0010790824890136719  seconds ago.
+Most recent file output (OSZICAR): 60.87116289138794  seconds ago.
+Most recent file output (OSZICAR): 0.0018434524536132812  seconds ago.
+Most recent file output (OSZICAR): 61.249799728393555  seconds ago.
+Most recent file output (std.out): 4.366408824920654  seconds ago.
+Most recent file output (std.out): 65.45641207695007  seconds ago.
+Most recent file output (std.out): 5.898657321929932  seconds ago.
+Most recent file output (std.out): 67.00915026664734  seconds ago.
+Most recent file output (std.out): 17.355531692504883  seconds ago.
+Most recent file output (OUTCAR): -0.013692140579223633  seconds ago.
+Most recent file output (OUTCAR): 14.669530391693115  seconds ago.
+Most recent file output (vasprun.xml): 0.0012216567993164062  seconds ago.
+Most recent file output (vasprun.xml): 61.0082004070282  seconds ago.
+Most recent file output (std.out): 6.0923073291778564  seconds ago.
+Most recent file output (std.out): 67.2229380607605  seconds ago.
+Most recent file output (std.out): 20.49258828163147  seconds ago.
+Most recent file output (OSZICAR): 0.0009467601776123047  seconds ago.
+Most recent file output (OSZICAR): 61.05994653701782  seconds ago.
+Most recent file output (OSZICAR): 0.0015461444854736328  seconds ago.
+Most recent file output (OSZICAR): 61.35396933555603  seconds ago.
+Most recent file output (OUTCAR): 0.0008339881896972656  seconds ago.
+Most recent file output (OUTCAR): 61.13851070404053  seconds ago.
+Most recent file output (OUTCAR): 0.0018358230590820312  seconds ago.
+Most recent file output (OSZICAR): 61.21348285675049  seconds ago.
+Most recent file output (std.out): 3.447721242904663  seconds ago.
+Most recent file output (OUTCAR): -0.004026889801025391  seconds ago.
+Most recent file output (OUTCAR): 26.185511827468872  seconds ago.
+Run complete
+Most recent file output (std.out): 2.886528491973877  seconds ago.
+
+
+
+++  status: incomplete   next task: relax
+Continue VASP job:
+  Original: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.0
+  Continuation: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.1
+ backup:
+
+  cp CONTCAR -> POSCAR
+  mv: POTCAR 
+  cp: KPOINTS INCAR 
+  rm: 
+ gzip: 
+
+Begin vasp run:
+  jobdir: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.1
+  exec: mpirun -np 8 vasp
+Most recent file output (OUTCAR): 4.943362236022949  seconds ago.
+Most recent file output (OUTCAR): 0.0013756752014160156  seconds ago.
+Most recent file output (OSZICAR): 60.06942319869995  seconds ago.
+Most recent file output (std.out): 4.929261684417725  seconds ago.
+Most recent file output (std.out): 64.99628925323486  seconds ago.
+Most recent file output (std.out): 13.333458423614502  seconds ago.
+Most recent file output (std.out): 73.524653673172  seconds ago.
+Most recent file output (std.out): 15.239110469818115  seconds ago.
+Most recent file output (vasprun.xml): 0.0015530586242675781  seconds ago.
+Most recent file output (std.out): 28.303346395492554  seconds ago.
+Most recent file output (vasprun.xml): 0.0008540153503417969  seconds ago.
+Most recent file output (OSZICAR): 60.09509253501892  seconds ago.
+Most recent file output (OSZICAR): 0.00015544891357421875  seconds ago.
+Most recent file output (OSZICAR): 60.09523797035217  seconds ago.
+Most recent file output (std.out): 7.243839263916016  seconds ago.
+Most recent file output (std.out): 67.33643436431885  seconds ago.
+Most recent file output (std.out): 15.001994609832764  seconds ago.
+Most recent file output (std.out): 75.14305877685547  seconds ago.
+Most recent file output (std.out): 24.827550649642944  seconds ago.
+Most recent file output (OSZICAR): 0.0008404254913330078  seconds ago.
+Most recent file output (OSZICAR): 60.09759306907654  seconds ago.
+Most recent file output (OSZICAR): 0.0010101795196533203  seconds ago.
+Most recent file output (OSZICAR): 60.09925055503845  seconds ago.
+Most recent file output (std.out): 1.495234727859497  seconds ago.
+Most recent file output (OUTCAR): -0.03417634963989258  seconds ago.
+Most recent file output (OUTCAR): 21.411719799041748  seconds ago.
+Most recent file output (vasprun.xml): 0.00077056884765625  seconds ago.
+Most recent file output (OUTCAR): 60.32769799232483  seconds ago.
+Most recent file output (std.out): 6.62406325340271  seconds ago.
+Most recent file output (std.out): 66.93318271636963  seconds ago.
+Most recent file output (std.out): 15.606748342514038  seconds ago.
+Most recent file output (OSZICAR): 0.0004496574401855469  seconds ago.
+Most recent file output (OSZICAR): 60.292887926101685  seconds ago.
+Most recent file output (OSZICAR): 0.0011029243469238281  seconds ago.
+Most recent file output (OSZICAR): 60.42695116996765  seconds ago.
+Most recent file output (OUTCAR): 0.0013880729675292969  seconds ago.
+Most recent file output (OSZICAR): 60.37640881538391  seconds ago.
+Most recent file output (vasprun.xml): 0.0008394718170166016  seconds ago.
+Most recent file output (OUTCAR): -0.00740814208984375  seconds ago.
+Most recent file output (OUTCAR): 8.086372375488281  seconds ago.
+Most recent file output (vasprun.xml): 0.0008227825164794922  seconds ago.
+Most recent file output (vasprun.xml): 23.58065414428711  seconds ago.
+Most recent file output (OUTCAR): 0.0016605854034423828  seconds ago.
+Most recent file output (OSZICAR): 60.491536378860474  seconds ago.
+Most recent file output (std.out): 6.126500129699707  seconds ago.
+Most recent file output (OUTCAR): -0.011497974395751953  seconds ago.
+Most recent file output (OUTCAR): 23.63712191581726  seconds ago.
+Run complete
+Most recent file output (std.out): 3.584062337875366  seconds ago.
+
+
+
+++  status: incomplete   next task: constant
+Continue VASP job:
+  Original: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.1
+  Continuation: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.2
+ backup:
+
+  cp CONTCAR -> POSCAR
+  mv: POTCAR 
+  cp: KPOINTS INCAR 
+  rm: 
+ gzip: 
+
+  Set INCAR tags: {'ISIF': 2, 'ISMEAR': -5, 'NSW': 0, 'IBRION': -1, 'SYSTEM': 'ZrN-sv-normal casm submission final'} 
+
+Begin vasp run:
+  jobdir: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.2
+  exec: mpirun -np 8 vasp
+Most recent file output (OUTCAR): 4.85506272315979  seconds ago.
+Most recent file output (vasprun.xml): 0.00037598609924316406  seconds ago.
+Most recent file output (vasprun.xml): 60.06911373138428  seconds ago.
+Most recent file output (std.out): 3.537356376647949  seconds ago.
+Most recent file output (std.out): 63.60371947288513  seconds ago.
+Most recent file output (std.out): 10.103591203689575  seconds ago.
+Most recent file output (std.out): 70.19668221473694  seconds ago.
+Most recent file output (std.out): 10.801904201507568  seconds ago.
+Most recent file output (std.out): 70.89157295227051  seconds ago.
+Most recent file output (std.out): 22.930631637573242  seconds ago.
+Most recent file output (OSZICAR): 0.00072479248046875  seconds ago.
+Most recent file output (OSZICAR): 60.09779953956604  seconds ago.
+Most recent file output (OSZICAR): 0.0004942417144775391  seconds ago.
+Most recent file output (OSZICAR): 60.09302377700806  seconds ago.
+Most recent file output (std.out): 0.5809175968170166  seconds ago.
+Most recent file output (std.out): 60.67591667175293  seconds ago.
+Most recent file output (std.out): 7.681849479675293  seconds ago.
+Most recent file output (std.out): 67.78253889083862  seconds ago.
+Most recent file output (std.out): 17.106998443603516  seconds ago.
+Most recent file output (OUTCAR): 0.0004127025604248047  seconds ago.
+Most recent file output (OSZICAR): 60.18108534812927  seconds ago.
+Most recent file output (OSZICAR): 0.0009071826934814453  seconds ago.
+Most recent file output (OSZICAR): 60.09108328819275  seconds ago.
+Most recent file output (OUTCAR): 0.0006666183471679688  seconds ago.
+Most recent file output (OUTCAR): -0.005045890808105469  seconds ago.
+Most recent file output (OUTCAR): 13.164291858673096  seconds ago.
+Most recent file output (std.out): 3.5980591773986816  seconds ago.
+Run complete
+Most recent file output (std.out): 3.772169351577759  seconds ago.
+
+
+
+++  status: complete   next task: None
+mv run.2 run.final
+Complete VASP job: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/run.final
+  rm: 
+ gzip: 
+
+Constructing a VASP Relax object
+  Relax directory: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default
+VASP Relax object constructed
+
+{'N': range(0, 5), 'Zr': range(5, 12)}
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+Wrote /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/properties.calc.json
+Wrote /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL7_7_1_1_0_2_4/2/calctype.default/status.json

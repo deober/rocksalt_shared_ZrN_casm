@@ -1,0 +1,20 @@
+{
+  "basis_function_specs" : {
+    "dof_specs": {
+      "occ": {
+        "site_basis_functions" : "occupation"
+      }
+    }
+  },
+  "cluster_specs": {
+    "method": "periodic_max_length",
+    "params": {
+      "orbit_branch_specs" : {
+		"2" : {"max_length" : 14.01},
+  		"3" : {"max_length" : 11.01}, 
+  		"4" : {"max_length" : 8.01}
+
+      }
+    }
+  }
+}

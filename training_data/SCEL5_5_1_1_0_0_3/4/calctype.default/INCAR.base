@@ -1,0 +1,17 @@
+SYSTEM = ZrN-sv-normal casm submission
+ISTART = 0
+ISMEAR = 1
+SIGMA = 0.1
+ENCUT = 525.0
+ALGO = NORMAL
+EDIFF = 1e-05
+PREC = Accurate
+LREAL = AUTO
+ISPIN = 1
+IBRION = 2
+NSW = 60
+EDIFFG = 0.02
+ISIF = 3
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+LORBIT = 11

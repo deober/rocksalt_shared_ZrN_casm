@@ -1,0 +1,19 @@
+/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vaspwrapper/vaspwrapper.py:195: VaspWarning: No reference POSCAR file found in CASM project. I hope your KPOINTS mode is A/AUTO/Automatic or this will fail!
+  warnings.warn("No reference POSCAR file found in CASM project. I hope your KPOINTS mode is A/AUTO/Automatic or this will fail!", vasp.VaspWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vaspwrapper/relax.py", line 409, in run
+    (status, task) = relaxation.run()
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vasp/relax.py", line 266, in run
+    result = casm.vasp.run(self.rundir[-1], npar=self.settings["npar"],ncore=self.settings["ncore"],command=self.settings["vasp_cmd"],ncpus=self.settings["ncpus"],kpar=self.settings["kpar"],err_types=self.settings["err_types"])
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vasp/run.py", line 144, in run
+    err = error_check(jobdir, os.path.join(jobdir, stdout), err_types)
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vasp/error.py", line 590, in error_check
+    if p.error(line=None, jobdir=jobdir):
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vasp/error.py", line 544, in error
+    outcar = io.Outcar(os.path.join(jobdir, "OUTCAR"))
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vasp/io/outcar.py", line 35, in __init__
+    self.read()
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vasp/io/outcar.py", line 56, in read
+    raise OutcarError("file not found: " + self.filename)
+casm.vasp.io.outcar.OutcarError: file not found: /home/dober/experiments/rocksalt_ZrN_casm/training_data/SCEL8_1_1_8_0_0_0/19/calctype.default/run.0/OUTCAR

@@ -1,0 +1,2 @@
+-sh: error importing function definition for `BASH_FUNC_module()'
+=>> PBS: job killed: node 1 (node144) requested job terminate, 'EOF' (code 1099) - received SISTER_EOF attempting to communicate with sister MOM's

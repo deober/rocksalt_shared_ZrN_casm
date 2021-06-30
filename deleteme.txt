@@ -1,0 +1,52 @@
+
+'casm query' usage:
+  -h [ --help ] arg                     Print general help. Use '--help 
+                                        properties' for a list of query-able 
+                                        properties or '--help operators' for a 
+                                        list of query operators
+  -c [ --selection ] <path> (="MASTER") Only consider the selected objects from
+                                        the given selection file. Options are: 
+                                        {'<filename>', 'MASTER' (default), 
+                                        'ALL', 'NONE', 'EMPTY', 'CALCULATED'}
+  -t [ --type ] <dbtype> (=config)      Type of database objects. Options are: 
+                                        {'config' (default), 'scel'}.
+  -o [ --output ] <path>                Name for output file. Use STDOUT to 
+                                        print results without extra messages.
+  -z [ --gzip ]                         Write gzipped output file.
+  -k [ --columns ] <query>              List of values you want printed as 
+                                        columns
+  -j [ --json ]                         Print in JSON format (CSV otherwise, 
+                                        unless output extension is .json/.JSON)
+  -v [ --verbatim ]                     Print exact properties specified, 
+                                        without prepending 'name' and 
+                                        'selected' entries
+  -a [ --all ]                          Print results all objects in input 
+                                        selection, whether or not they are 
+                                        selected.
+  -n [ --no-header ]                    Print without header (CSV only)
+  --alias arg                           Create an alias for a query that will 
+                                        persist within this project. Ex: 'casm 
+                                        query --alias is_Ni_dilute = 
+                                        lt(atom_frac(Ni),0.10001)'
+  --write-pos                           Write POS file (VASP structure format) 
+                                        for each configuration
+  --write-config                        Write config.json file (CASM DoF values
+                                        format) for each configuration
+  --write-structure                     Write structure.json file (CASM 
+                                        structure format) for each 
+                                        configuration
+  --include-equivalents                 Include an entry for all distinct 
+                                        configurations equivalent by supercell 
+                                        symmetry
+
+Prints the properties for the objects currently selected in the MASTER
+selection or the specifed selection file via --selection (-c).
+
+Property values are output in column-separated (default) or JSON format.  By default, 
+entries for 'name' and 'selected' values are included in the output. 
+
+The type of objects acted on is specified via --type (-t).
+
+The allowed types are:
+  config
+  scel

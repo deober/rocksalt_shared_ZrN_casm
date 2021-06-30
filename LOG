@@ -1,0 +1,2094 @@
+# 2021-06-24 13:33:58
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000505315
+
+# 2021-06-24 13:34:03
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import -h 
+# return: 0 runtime(s): 0.000509876
+
+# 2021-06-24 13:37:57
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000552187
+
+# 2021-06-24 13:38:35
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -h 
+# return: 0 runtime(s): 0.0100659
+
+# 2021-06-24 13:39:01
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -h 
+# return: 0 runtime(s): 0.00896333
+
+# 2021-06-24 13:41:58
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -h 
+# return: 0 runtime(s): 0.0080318
+
+# 2021-06-24 13:47:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import -h 
+# return: 0 runtime(s): 0.000494612
+
+# 2021-06-24 14:08:57
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm composition -d 
+# return: 0 runtime(s): 0.00465624
+
+# 2021-06-24 14:09:05
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm composition --calc 
+# return: 0 runtime(s): 0.00721409
+
+# 2021-06-24 15:01:44
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm composition select 0 
+# return: 0 runtime(s): 0.000231353
+
+# 2021-06-24 15:02:13
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm composition -d 
+# return: 0 runtime(s): 0.00470129
+
+# 2021-06-24 15:02:26
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm composition --select 0 
+# return: 0 runtime(s): 0.00736106
+
+# 2021-06-24 15:03:29
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm enum --method Scel 
+# 2021-06-24 15:03:45
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm enum --method ScelEnum --max 8 
+# return: 0 runtime(s): 0.0562922
+
+# 2021-06-24 15:04:29
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm enum --method ConfigEnumAllOccupations --all 
+# return: 0 runtime(s): 0.144999
+
+# 2021-06-24 15:05:08
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 20.9257
+
+# 2021-06-24 15:06:24
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k 
+# return: 0 runtime(s): 0.101248
+
+# 2021-06-24 15:18:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k 
+# return: 0 runtime(s): 0.0992598
+
+# 2021-06-24 15:18:59
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.161874
+
+# 2021-06-24 15:19:28
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 12.0719
+
+# 2021-06-24 15:20:35
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.164397
+
+# 2021-06-24 15:20:45
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k 
+# return: 0 runtime(s): 0.0983198
+
+# 2021-06-24 15:20:58
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-on 
+# return: 0 runtime(s): 0.12882
+
+# 2021-06-24 15:21:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k 
+# return: 0 runtime(s): 0.107966
+
+# 2021-06-24 15:21:14
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.116988
+
+# 2021-06-24 15:21:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000614447
+
+# 2021-06-24 15:22:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import --copy-additional-files -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 11.9214
+
+# 2021-06-24 15:22:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.164682
+
+# 2021-06-24 15:22:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.116015
+
+# 2021-06-24 15:22:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000532619
+
+# 2021-06-24 15:22:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import --copy-additional-files -d -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 11.8547
+
+# 2021-06-24 15:23:14
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.158378
+
+# 2021-06-24 15:24:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-on -c ALL 
+# return: 0 runtime(s): 0.121559
+
+# 2021-06-24 15:25:01
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_eneryg 
+# return: 2 runtime(s): 0.0958374
+
+# 2021-06-24 15:25:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.115324
+
+# 2021-06-24 15:26:24
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import --copy-additional-files -d -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 11.8753
+
+# 2021-06-24 15:27:21
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-on -c ALL 
+# return: 0 runtime(s): 0.118112
+
+# 2021-06-24 15:31:19
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.119263
+
+# 2021-06-24 18:38:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000441743
+
+# 2021-06-24 18:38:44
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000496072
+
+# 2021-06-24 18:39:35
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000535113
+
+# 2021-06-24 18:39:44
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import --copy-additional-files 
+# return: 1 runtime(s): 0.000592972
+
+# 2021-06-24 18:40:14
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import --copy-additional-files -d -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 11.6185
+
+# 2021-06-24 18:40:47
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.136767
+
+# 2021-06-24 18:41:30
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-on -c ALL 
+# return: 0 runtime(s): 0.118659
+
+# 2021-06-24 19:21:16
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-on -c ALL 
+# return: 0 runtime(s): 0.118517
+
+# 2021-06-24 19:24:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.168306
+
+# 2021-06-24 20:00:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c MASTER -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0948871
+
+# 2021-06-24 20:00:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -c MASTER --write-pos 
+# return: 0 runtime(s): 0.127328
+
+# 2021-06-24 20:00:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c MASTER -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.106846
+
+# 2021-06-24 20:00:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -c MASTER --write-pos 
+# return: 0 runtime(s): 0.108702
+
+# 2021-06-24 20:02:47
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000544956
+
+# 2021-06-24 20:03:21
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import -d --copy-additional-files -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 11.8161
+
+# 2021-06-24 20:03:35
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.176843
+
+# 2021-06-24 20:03:48
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.115034
+
+# 2021-06-24 20:04:53
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm info 
+# return: 1 runtime(s): 0.000332612
+
+# 2021-06-24 20:07:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.171608
+
+# 2021-06-24 20:09:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c MASTER -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.103083
+
+# 2021-06-24 20:09:46
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import -d --copy-additional-files -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 11.8135
+
+# 2021-06-24 20:10:14
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.123912
+
+# 2021-06-24 20:10:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.165587
+
+# 2021-06-24 20:10:35
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import -d --copy-additional-files -b /media/derick/Thing2/research/experiments/rocksalt_ZrN_casm/structure_file_path_batch.txt 
+# return: 0 runtime(s): 11.8485
+
+# 2021-06-24 20:10:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.128826
+
+# 2021-06-24 20:12:09
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 0.182495
+
+# 2021-06-24 20:12:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.128115
+
+# 2021-06-24 20:13:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c MASTER -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.106048
+
+# 2021-06-24 20:16:29
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000530501
+
+# 2021-06-24 20:21:18
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm import 
+# return: 1 runtime(s): 0.000449081
+
+# 2021-06-24 20:30:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c MASTER -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.102189
+
+# 2021-06-24 20:54:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c MASTER -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.127977
+
+# 2021-06-24 20:54:57
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c MASTER -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.105855
+
+# 2021-06-24 20:54:57
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -c MASTER --write-pos 
+# return: 0 runtime(s): 0.111383
+
+# 2021-06-24 20:55:19
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm update 
+# return: 0 runtime(s): 20.3855
+
+# 2021-06-24 20:55:46
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k energy 
+# return: 0 runtime(s): 0.309307
+
+# 2021-06-24 21:02:41
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k corr 
+# return: 2 runtime(s): 0.0993857
+
+# 2021-06-24 21:02:58
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset 
+# return: 1 runtime(s): 0.000509439
+
+# 2021-06-24 21:03:16
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm ref -d 
+# return: 0 runtime(s): 0.0117315
+
+# 2021-06-25 12:38:39
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-on eq(is_calculated) 
+# return: 0 runtime(s): 0.254295
+
+# 2021-06-25 12:38:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k energy 
+# return: 0 runtime(s): 0.339398
+
+# 2021-06-25 12:39:17
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select -h 
+# return: 0 runtime(s): 0.0966352
+
+# 2021-06-25 12:39:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k energy 
+# return: 0 runtime(s): 0.284228
+
+# 2021-06-25 12:39:48
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k energy 
+# return: 0 runtime(s): 0.303963
+
+# 2021-06-25 12:40:59
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-off rs(configname, "SCEL8_1_1_8_0_0_0/3") 
+# return: 0 runtime(s): 0.127649
+
+# 2021-06-25 12:41:13
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-off rs(configname, "SCEL8_8_1_1_0_5_2/7") 
+# return: 0 runtime(s): 0.119918
+
+# 2021-06-25 12:41:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-off rs(configname, "SCEL7_7_1_1_0_0_6/5") 
+# return: 0 runtime(s): 0.127573
+
+# 2021-06-25 12:41:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-off rs(configname, "SCEL7_7_1_1_0_0_6/13") 
+# return: 0 runtime(s): 0.117703
+
+# 2021-06-25 12:41:47
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm select --set-off rs(configname, "SCEL8_1_1_8_0_0_0/3") 
+# return: 0 runtime(s): 0.124727
+
+# 2021-06-25 12:42:08
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k energy 
+# return: 0 runtime(s): 0.293757
+
+# 2021-06-25 12:42:31
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 4 runtime(s): 0.0120574
+
+# 2021-06-25 14:07:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 4 runtime(s): 0.0132481
+
+# 2021-06-25 14:07:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 4 runtime(s): 0.00949614
+
+# 2021-06-25 14:13:07
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 4 runtime(s): 0.0093426
+
+# 2021-06-25 14:13:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 5.32142
+
+# 2021-06-25 14:18:13
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 4.69337
+
+# 2021-06-25 14:19:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm query -k formation_energy 
+# return: 0 runtime(s): 0.290666
+
+# 2021-06-25 14:33:06
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 4 runtime(s): 0.00924116
+
+# 2021-06-25 14:35:03
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 4.69006
+
+# 2021-06-25 14:45:21
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset 
+# return: 1 runtime(s): 0.000525464
+
+# 2021-06-25 14:45:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset --functions 
+# return: 0 runtime(s): 0.011192
+
+# 2021-06-25 14:47:53
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 4.65255
+
+# 2021-06-25 14:48:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset --functions 
+# return: 0 runtime(s): 0.0132289
+
+# 2021-06-25 14:49:28
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -u -f f 
+# 2021-06-25 14:49:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -u -f 
+# return: 2 runtime(s): 4.58572
+
+# 2021-06-25 14:49:44
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -u -f 
+# return: 2 runtime(s): 4.66737
+
+# 2021-06-25 14:50:08
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm settings -l 
+# return: 0 runtime(s): 0.00221454
+
+# 2021-06-25 14:51:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset --cluster 
+# return: 0 runtime(s): 0.0138198
+
+# 2021-06-25 14:51:26
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset --clusters 
+# return: 0 runtime(s): 0.0119706
+
+# 2021-06-25 14:55:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 4 runtime(s): 0.0132067
+
+# 2021-06-25 15:00:31
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 4.67334
+
+# 2021-06-25 15:12:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 4 runtime(s): 0.0102201
+
+# 2021-06-25 15:13:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 4.95454
+
+# 2021-06-25 15:14:35
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 5.00082
+
+# 2021-06-25 15:17:31
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# 2021-06-25 15:19:17
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+/home/derick/anaconda3/envs/casm_1.X/bin/ccasm bset -uf 
+# return: 2 runtime(s): 5.01671
+
+# 2021-06-25 15:25:12
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 5.07547
+
+# 2021-06-25 15:54:41
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 2 runtime(s): 0.0266251
+
+# 2021-06-25 15:55:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm settings -h 
+# return: 0 runtime(s): 0.000420652
+
+# 2021-06-25 15:55:40
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm settings --set-casm-prefix= /home/derick/.local/casm 
+# return: 1 runtime(s): 0.00164622
+
+# 2021-06-25 15:55:46
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm settings --set-casm-prefix=/home/derick/.local/casm 
+# return: 0 runtime(s): 0.537916
+
+# 2021-06-25 15:56:08
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 0 runtime(s): 6.22895
+
+# 2021-06-25 16:07:16
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 0 runtime(s): 6.92775
+
+# 2021-06-25 16:10:40
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset --clusters 
+# return: 0 runtime(s): 0.0115822
+
+# 2021-06-25 16:13:12
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset -uf 
+# return: 0 runtime(s): 86.7778
+
+# 2021-06-25 16:15:24
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_0.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.431063
+
+# 2021-06-25 16:17:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.306095
+
+# 2021-06-25 16:17:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0322253
+
+# 2021-06-25 16:17:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0514013
+
+# 2021-06-25 16:17:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00223694
+
+# 2021-06-25 16:17:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.252115
+
+# 2021-06-25 16:17:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00371682
+
+# 2021-06-25 16:17:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_0.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.42986
+
+# 2021-06-25 16:19:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+ccasm bset --clusters 
+# return: 0 runtime(s): 1.19864
+
+# 2021-06-25 16:19:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.304887
+
+# 2021-06-25 16:19:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0329524
+
+# 2021-06-25 16:19:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0538255
+
+# 2021-06-25 16:19:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00395466
+
+# 2021-06-25 16:19:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.245322
+
+# 2021-06-25 16:19:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00289557
+
+# 2021-06-25 16:19:53
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_0.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.447621
+
+# 2021-06-25 16:22:03
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.326104
+
+# 2021-06-25 16:22:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0293579
+
+# 2021-06-25 16:22:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0516499
+
+# 2021-06-25 16:22:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00300417
+
+# 2021-06-25 16:22:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.270715
+
+# 2021-06-25 16:22:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00451394
+
+# 2021-06-25 16:22:05
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_1.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.433092
+
+# 2021-06-25 16:24:24
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.300521
+
+# 2021-06-25 16:24:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0326882
+
+# 2021-06-25 16:24:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0506405
+
+# 2021-06-25 16:24:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00280309
+
+# 2021-06-25 16:24:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.236114
+
+# 2021-06-25 16:24:25
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00419005
+
+# 2021-06-25 16:24:26
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_1.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.442724
+
+# 2021-06-25 16:26:26
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.289695
+
+# 2021-06-25 16:26:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0325383
+
+# 2021-06-25 16:26:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0498955
+
+# 2021-06-25 16:26:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00367567
+
+# 2021-06-25 16:26:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.251591
+
+# 2021-06-25 16:26:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00458731
+
+# 2021-06-25 16:26:28
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_1.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.41787
+
+# 2021-06-25 16:28:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.315969
+
+# 2021-06-25 16:28:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0297986
+
+# 2021-06-25 16:28:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0450372
+
+# 2021-06-25 16:28:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00260481
+
+# 2021-06-25 16:28:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.247003
+
+# 2021-06-25 16:28:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00419574
+
+# 2021-06-25 16:28:21
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_2.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.4228
+
+# 2021-06-25 16:30:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.309737
+
+# 2021-06-25 16:30:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0346565
+
+# 2021-06-25 16:30:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0525141
+
+# 2021-06-25 16:30:16
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00307892
+
+# 2021-06-25 16:30:16
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.232675
+
+# 2021-06-25 16:30:16
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00278721
+
+# 2021-06-25 16:30:17
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_2.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.408481
+
+# 2021-06-25 16:32:10
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.305312
+
+# 2021-06-25 16:32:10
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0288254
+
+# 2021-06-25 16:32:10
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0444305
+
+# 2021-06-25 16:32:10
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00317519
+
+# 2021-06-25 16:32:10
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.245343
+
+# 2021-06-25 16:32:10
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00387382
+
+# 2021-06-25 16:32:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_0.1_B_2.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.414708
+
+# 2021-06-25 16:34:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.295324
+
+# 2021-06-25 16:34:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0253534
+
+# 2021-06-25 16:34:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0427258
+
+# 2021-06-25 16:34:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00216348
+
+# 2021-06-25 16:34:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.238576
+
+# 2021-06-25 16:34:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00422016
+
+# 2021-06-25 16:34:03
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_0.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.411824
+
+# 2021-06-25 16:35:54
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.308635
+
+# 2021-06-25 16:35:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.030982
+
+# 2021-06-25 16:35:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0511849
+
+# 2021-06-25 16:35:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.0031503
+
+# 2021-06-25 16:35:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.241598
+
+# 2021-06-25 16:35:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00394808
+
+# 2021-06-25 16:35:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_0.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.442525
+
+# 2021-06-25 16:37:50
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.306684
+
+# 2021-06-25 16:37:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0259024
+
+# 2021-06-25 16:37:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0533062
+
+# 2021-06-25 16:37:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00322638
+
+# 2021-06-25 16:37:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.241212
+
+# 2021-06-25 16:37:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00272746
+
+# 2021-06-25 16:37:52
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_0.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.435436
+
+# 2021-06-25 16:39:42
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.304802
+
+# 2021-06-25 16:39:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0308625
+
+# 2021-06-25 16:39:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0510286
+
+# 2021-06-25 16:39:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00316787
+
+# 2021-06-25 16:39:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.240137
+
+# 2021-06-25 16:39:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00276092
+
+# 2021-06-25 16:39:44
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_1.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.429091
+
+# 2021-06-25 16:41:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.309182
+
+# 2021-06-25 16:41:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0264651
+
+# 2021-06-25 16:41:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0490516
+
+# 2021-06-25 16:41:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00356759
+
+# 2021-06-25 16:41:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.25134
+
+# 2021-06-25 16:41:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00409694
+
+# 2021-06-25 16:41:39
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_1.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.436808
+
+# 2021-06-25 16:43:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.303517
+
+# 2021-06-25 16:43:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0264991
+
+# 2021-06-25 16:43:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0493004
+
+# 2021-06-25 16:43:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00251036
+
+# 2021-06-25 16:43:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.241228
+
+# 2021-06-25 16:43:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00270406
+
+# 2021-06-25 16:43:34
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_1.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.426231
+
+# 2021-06-25 16:45:22
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.305536
+
+# 2021-06-25 16:45:23
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.025845
+
+# 2021-06-25 16:45:23
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0526341
+
+# 2021-06-25 16:45:23
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00331066
+
+# 2021-06-25 16:45:23
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.247238
+
+# 2021-06-25 16:45:23
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00277317
+
+# 2021-06-25 16:45:24
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_2.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.426779
+
+# 2021-06-25 16:47:17
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.304961
+
+# 2021-06-25 16:47:17
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0273324
+
+# 2021-06-25 16:47:17
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0450206
+
+# 2021-06-25 16:47:18
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00217028
+
+# 2021-06-25 16:47:18
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.248475
+
+# 2021-06-25 16:47:18
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00380213
+
+# 2021-06-25 16:47:19
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_2.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.426152
+
+# 2021-06-25 16:49:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.30955
+
+# 2021-06-25 16:49:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0268911
+
+# 2021-06-25 16:49:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0457376
+
+# 2021-06-25 16:49:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00300083
+
+# 2021-06-25 16:49:11
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.247282
+
+# 2021-06-25 16:49:12
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00286901
+
+# 2021-06-25 16:49:12
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_1.05_B_2.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.431028
+
+# 2021-06-25 16:51:03
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.316434
+
+# 2021-06-25 16:51:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0285265
+
+# 2021-06-25 16:51:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0523844
+
+# 2021-06-25 16:51:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00325227
+
+# 2021-06-25 16:51:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.247768
+
+# 2021-06-25 16:51:04
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00300829
+
+# 2021-06-25 16:51:05
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_0.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.430396
+
+# 2021-06-25 16:52:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.319394
+
+# 2021-06-25 16:52:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0341572
+
+# 2021-06-25 16:52:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0507817
+
+# 2021-06-25 16:52:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00297334
+
+# 2021-06-25 16:52:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.241301
+
+# 2021-06-25 16:52:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00276663
+
+# 2021-06-25 16:52:57
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_0.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.42658
+
+# 2021-06-25 16:54:50
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.304898
+
+# 2021-06-25 16:54:50
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0283543
+
+# 2021-06-25 16:54:50
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0491976
+
+# 2021-06-25 16:54:50
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00332222
+
+# 2021-06-25 16:54:50
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.248682
+
+# 2021-06-25 16:54:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00274713
+
+# 2021-06-25 16:54:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_0.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.436281
+
+# 2021-06-25 16:56:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.310776
+
+# 2021-06-25 16:56:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0253169
+
+# 2021-06-25 16:56:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0431418
+
+# 2021-06-25 16:56:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00188204
+
+# 2021-06-25 16:56:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.238432
+
+# 2021-06-25 16:56:43
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00426691
+
+# 2021-06-25 16:56:44
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_1.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.415976
+
+# 2021-06-25 16:58:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.29375
+
+# 2021-06-25 16:58:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0249345
+
+# 2021-06-25 16:58:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0429813
+
+# 2021-06-25 16:58:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00213042
+
+# 2021-06-25 16:58:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.240672
+
+# 2021-06-25 16:58:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00302991
+
+# 2021-06-25 16:58:37
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_1.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.432059
+
+# 2021-06-25 17:00:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.305343
+
+# 2021-06-25 17:00:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0310576
+
+# 2021-06-25 17:00:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0505976
+
+# 2021-06-25 17:00:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00204419
+
+# 2021-06-25 17:00:32
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.24982
+
+# 2021-06-25 17:00:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00303733
+
+# 2021-06-25 17:00:33
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_1.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.43061
+
+# 2021-06-25 17:02:26
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.31492
+
+# 2021-06-25 17:02:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0321304
+
+# 2021-06-25 17:02:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0449469
+
+# 2021-06-25 17:02:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.0020954
+
+# 2021-06-25 17:02:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.238973
+
+# 2021-06-25 17:02:27
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00481037
+
+# 2021-06-25 17:02:28
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_2.0_kt_0.01/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.436108
+
+# 2021-06-25 17:04:19
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.305057
+
+# 2021-06-25 17:04:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0323275
+
+# 2021-06-25 17:04:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0446484
+
+# 2021-06-25 17:04:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.0029879
+
+# 2021-06-25 17:04:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.251552
+
+# 2021-06-25 17:04:20
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00278875
+
+# 2021-06-25 17:04:21
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_2.0_kt_0.05500000000000001/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.433902
+
+# 2021-06-25 17:06:14
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.294771
+
+# 2021-06-25 17:06:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.030605
+
+# 2021-06-25 17:06:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.053175
+
+# 2021-06-25 17:06:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00225311
+
+# 2021-06-25 17:06:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.240542
+
+# 2021-06-25 17:06:15
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00280693
+
+# 2021-06-25 17:06:16
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/ce_fits/A_2.0_B_2.0_kt_0.1/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.426161
+
+# 2021-06-25 17:08:08
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.303263
+
+# 2021-06-25 17:08:09
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0309063
+
+# 2021-06-25 17:08:09
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0442541
+
+# 2021-06-25 17:08:09
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00206487
+
+# 2021-06-25 17:08:09
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/media/derick/Thing2/research/experiments/rocksalt3_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.242153
+
+# 2021-06-25 17:08:09
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00398263
+
+# 2021-06-29 12:04:10
+# derickober@Dericks-MBP-2.attlocal.net
+# 1.1.2
+casm query -k formation_energy 
+# return: 0 runtime(s): 0.961501
+
+# 2021-06-29 17:11:05
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm update 
+# return: 0 runtime(s): 40.9104
+
+# 2021-06-29 18:03:36
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query 
+# return: 1 runtime(s): 0.321248
+
+# 2021-06-29 18:03:40
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k 
+# return: 0 runtime(s): 0.222696
+
+# 2021-06-29 19:37:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k formation_energy 
+# return: 0 runtime(s): 0.830932
+
+# 2021-06-29 19:37:25
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm update 
+# return: 0 runtime(s): 29.6877
+
+# 2021-06-29 19:38:32
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k 
+# return: 0 runtime(s): 0.219414
+
+# 2021-06-29 19:38:41
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm update 
+# return: 0 runtime(s): 1.57076
+
+# 2021-06-29 19:38:48
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k 
+# return: 0 runtime(s): 0.227415
+
+# 2021-06-29 19:38:58
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k formation_energy 
+# return: 0 runtime(s): 0.817845
+
+# 2021-06-29 19:39:09
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -h 
+# return: 0 runtime(s): 0.207601
+
+# 2021-06-29 19:39:31
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset -h 
+# return: 0 runtime(s): 0.000376849
+
+# 2021-06-29 19:39:41
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset --functions 
+# return: 0 runtime(s): 0.81071
+
+# 2021-06-29 19:39:48
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset -h 
+# return: 0 runtime(s): 0.000467738
+
+# 2021-06-29 19:40:11
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -h 
+# return: 0 runtime(s): 0.194736
+
+# 2021-06-29 19:40:39
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -h 
+# return: 0 runtime(s): 0.20371
+
+# 2021-06-29 19:41:03
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset -h 
+# return: 0 runtime(s): 0.000772842
+
+# 2021-06-29 19:41:26
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset --align --functions 
+# return: 0 runtime(s): 0.741797
+
+# 2021-06-29 19:41:35
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset -h 
+# return: 0 runtime(s): 0.00038896
+
+# 2021-06-29 19:43:02
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k corr 
+# return: 2 runtime(s): 0.854021
+
+# 2021-06-29 19:43:26
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -h 
+# return: 0 runtime(s): 0.193419
+
+# 2021-06-29 19:43:48
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query --desc 
+# return: 1 runtime(s): 0.000695876
+
+# 2021-06-29 19:46:46
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k corr 
+# 2021-06-29 21:02:02
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k corr 
+# 2021-06-29 21:02:10
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset -u 
+# return: 6 runtime(s): 0.00674884
+
+# 2021-06-29 21:02:22
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k corr 
+# 2021-06-29 21:02:27
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset -uf 
+# return: 0 runtime(s): 50.4776
+
+# 2021-06-29 21:03:57
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm update 
+# return: 0 runtime(s): 3.52707
+
+# 2021-06-29 21:04:07
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k 
+# return: 0 runtime(s): 0.224534
+
+# 2021-06-30 14:16:38
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm import 
+# return: 1 runtime(s): 0.000412882
+
+# 2021-06-30 14:18:37
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm update 
+# return: 0 runtime(s): 24.1459
+
+# 2021-06-30 14:19:09
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k 
+# return: 0 runtime(s): 0.258399
+
+# 2021-06-30 14:19:17
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k energy 
+# return: 0 runtime(s): 0.805852
+
+# 2021-06-30 14:51:40
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /Volumes/Derick_data/experiments/rocksalt_shared_ZrN_casm_1.X/ce_fits/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 1.44445
+
+# 2021-06-30 14:52:52
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /Volumes/Derick_data/experiments/rocksalt_shared_ZrN_casm_1.X/ce_fits/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.932894
+
+# 2021-06-30 15:07:52
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm update 
+# return: 0 runtime(s): 26.4765
+
+# 2021-06-30 15:08:27
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k 
+# return: 0 runtime(s): 0.383449
+
+# 2021-06-30 15:08:41
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k corr 
+# return: 0 runtime(s): 1.26609
+

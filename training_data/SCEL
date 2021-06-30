@@ -1,0 +1,275 @@
+Supercell Name: 'SCEL1_1_1_1_0_0_0' Number: 0 Volume: 1
+Supercell Transformation Matrix: 
+1 0 0
+0 1 0
+0 0 1
+Supercell Name: 'SCEL2_2_1_1_0_1_1' Number: 1 Volume: 2
+Supercell Transformation Matrix: 
+ 1  0  1
+ 0  1  1
+-1 -1  0
+Supercell Name: 'SCEL2_2_1_1_0_0_1' Number: 2 Volume: 2
+Supercell Transformation Matrix: 
+ 0 -1 -1
+ 0  1 -1
+ 1  0  1
+Supercell Name: 'SCEL3_3_1_1_0_2_2' Number: 3 Volume: 3
+Supercell Transformation Matrix: 
+-1  1  1
+ 0 -1  1
+ 1  0  1
+Supercell Name: 'SCEL3_3_1_1_0_0_2' Number: 4 Volume: 3
+Supercell Transformation Matrix: 
+-1  0  2
+ 1  0  1
+ 0  1 -2
+Supercell Name: 'SCEL3_3_1_1_0_2_1' Number: 5 Volume: 3
+Supercell Transformation Matrix: 
+-1  1  0
+ 0 -1  2
+ 1  1 -1
+Supercell Name: 'SCEL4_4_1_1_0_0_2' Number: 6 Volume: 4
+Supercell Transformation Matrix: 
+ 0  2  0
+ 0 -1  2
+ 1 -1 -1
+Supercell Name: 'SCEL4_2_2_1_0_1_0' Number: 7 Volume: 4
+Supercell Transformation Matrix: 
+-1  1 -1
+ 0  0  2
+ 1  1 -1
+Supercell Name: 'SCEL4_4_1_1_0_2_1' Number: 8 Volume: 4
+Supercell Transformation Matrix: 
+-1  1  1
+ 1 -1  1
+ 1  1 -2
+Supercell Name: 'SCEL4_4_1_1_0_0_0' Number: 9 Volume: 4
+Supercell Transformation Matrix: 
+ 0  0  4
+ 1  0 -1
+ 0  1 -1
+Supercell Name: 'SCEL4_4_1_1_0_1_0' Number: 10 Volume: 4
+Supercell Transformation Matrix: 
+ 0  1  2
+ 1 -1  0
+ 0  1 -2
+Supercell Name: 'SCEL4_4_1_1_0_0_3' Number: 11 Volume: 4
+Supercell Transformation Matrix: 
+ 0 -1 -2
+ 0  1 -2
+ 1  0  2
+Supercell Name: 'SCEL4_2_2_1_1_1_0' Number: 12 Volume: 4
+Supercell Transformation Matrix: 
+-1  1  1
+ 1 -1  1
+ 1  1 -1
+Supercell Name: 'SCEL5_1_1_5_0_0_0' Number: 13 Volume: 5
+Supercell Transformation Matrix: 
+ 0  1  2
+ 1  0  2
+ 0  0 -5
+Supercell Name: 'SCEL5_5_1_1_0_0_4' Number: 14 Volume: 5
+Supercell Transformation Matrix: 
+-1  0  3
+ 1  0  2
+ 0  1 -3
+Supercell Name: 'SCEL5_5_1_1_0_4_3' Number: 15 Volume: 5
+Supercell Transformation Matrix: 
+-1  1  0
+ 0 -1  3
+ 1  1 -1
+Supercell Name: 'SCEL5_5_1_1_0_0_3' Number: 16 Volume: 5
+Supercell Transformation Matrix: 
+ 0  2  1
+ 0 -1  2
+ 1  0 -1
+Supercell Name: 'SCEL5_5_1_1_0_1_3' Number: 17 Volume: 5
+Supercell Transformation Matrix: 
+-1  1  0
+ 1  0  2
+ 1  1 -1
+Supercell Name: 'SCEL6_3_1_2_0_2_2' Number: 18 Volume: 6
+Supercell Transformation Matrix: 
+-1 -1  1
+ 1  0  2
+ 0  2  0
+Supercell Name: 'SCEL6_6_1_1_0_5_5' Number: 19 Volume: 6
+Supercell Transformation Matrix: 
+-1  1  2
+ 0 -1  2
+ 1  0  2
+Supercell Name: 'SCEL6_2_3_1_0_1_0' Number: 20 Volume: 6
+Supercell Transformation Matrix: 
+-1  1 -1
+ 0  0  3
+ 1  1 -1
+Supercell Name: 'SCEL6_3_1_2_0_0_0' Number: 21 Volume: 6
+Supercell Transformation Matrix: 
+ 0  0  3
+ 1 -1 -1
+ 0  2 -2
+Supercell Name: 'SCEL6_3_1_2_0_0_2' Number: 22 Volume: 6
+Supercell Transformation Matrix: 
+-1  0  2
+ 1  0  1
+ 0  2 -2
+Supercell Name: 'SCEL6_3_2_1_0_1_2' Number: 23 Volume: 6
+Supercell Transformation Matrix: 
+-1  1 -1
+ 0  0  2
+ 2  1  0
+Supercell Name: 'SCEL6_6_1_1_0_1_4' Number: 24 Volume: 6
+Supercell Transformation Matrix: 
+-1  2  0
+ 1 -1  2
+ 1  0 -2
+Supercell Name: 'SCEL6_6_1_1_0_1_0' Number: 25 Volume: 6
+Supercell Transformation Matrix: 
+ 0  1  3
+ 1 -1  0
+ 0  1 -3
+Supercell Name: 'SCEL6_6_1_1_0_3_2' Number: 26 Volume: 6
+Supercell Transformation Matrix: 
+-1  1  2
+ 1 -1  1
+ 1  1 -2
+Supercell Name: 'SCEL6_6_1_1_0_0_5' Number: 27 Volume: 6
+Supercell Transformation Matrix: 
+ 0 -1 -3
+ 0  1 -3
+ 1  0  3
+Supercell Name: 'SCEL7_7_1_1_0_0_6' Number: 28 Volume: 7
+Supercell Transformation Matrix: 
+-1  0  4
+ 1  0  3
+ 0  1 -4
+Supercell Name: 'SCEL7_7_1_1_0_3_6' Number: 29 Volume: 7
+Supercell Transformation Matrix: 
+-1  0  2
+ 1 -1  2
+ 0  2 -1
+Supercell Name: 'SCEL7_7_1_1_0_6_5' Number: 30 Volume: 7
+Supercell Transformation Matrix: 
+-1  1  0
+ 0 -1  4
+ 1  1 -1
+Supercell Name: 'SCEL7_7_1_1_0_6_4' Number: 31 Volume: 7
+Supercell Transformation Matrix: 
+-1  2 -1
+ 0 -1  3
+ 1  1 -1
+Supercell Name: 'SCEL7_7_1_1_0_2_4' Number: 32 Volume: 7
+Supercell Transformation Matrix: 
+-1  1  2
+ 1 -2  1
+ 1  1 -1
+Supercell Name: 'SCEL7_7_1_1_0_0_0' Number: 33 Volume: 7
+Supercell Transformation Matrix: 
+ 0  0  7
+ 1  0 -2
+ 0  1 -2
+Supercell Name: 'SCEL7_7_1_1_0_3_5' Number: 34 Volume: 7
+Supercell Transformation Matrix: 
+-2  1  0
+ 1  0 -2
+ 0 -2  1
+Supercell Name: 'SCEL8_8_1_1_0_0_6' Number: 35 Volume: 8
+Supercell Transformation Matrix: 
+ 0  2  0
+ 0 -1  4
+ 1 -1 -2
+Supercell Name: 'SCEL8_1_1_8_0_0_0' Number: 36 Volume: 8
+Supercell Transformation Matrix: 
+ 0  1  3
+ 1  0  3
+ 0  0 -8
+Supercell Name: 'SCEL8_8_1_1_0_0_5' Number: 37 Volume: 8
+Supercell Transformation Matrix: 
+ 0  3 -1
+ 0 -1  3
+ 1 -1 -1
+Supercell Name: 'SCEL8_4_1_2_0_1_2' Number: 38 Volume: 8
+Supercell Transformation Matrix: 
+-1  2  0
+-1 -1  2
+ 2  0  0
+Supercell Name: 'SCEL8_2_4_1_0_1_1' Number: 39 Volume: 8
+Supercell Transformation Matrix: 
+-1  1 -1
+ 0  0  4
+ 1  1 -2
+Supercell Name: 'SCEL8_4_1_2_0_0_0' Number: 40 Volume: 8
+Supercell Transformation Matrix: 
+ 0  0  4
+ 1 -1 -1
+ 0  2 -2
+Supercell Name: 'SCEL8_8_1_1_0_0_3' Number: 41 Volume: 8
+Supercell Transformation Matrix: 
+ 0  2  1
+ 0 -2  3
+ 1  0 -2
+Supercell Name: 'SCEL8_2_4_1_1_0_1' Number: 42 Volume: 8
+Supercell Transformation Matrix: 
+ 0  2 -1
+ 1 -1  2
+ 1 -1 -2
+Supercell Name: 'SCEL8_4_2_1_1_2_0' Number: 43 Volume: 8
+Supercell Transformation Matrix: 
+-2  0  0
+ 1  0  2
+ 1  2  0
+Supercell Name: 'SCEL8_8_1_1_0_4_3' Number: 44 Volume: 8
+Supercell Transformation Matrix: 
+-1  1  2
+ 1 -1  2
+ 1  1 -3
+Supercell Name: 'SCEL8_8_1_1_0_1_0' Number: 45 Volume: 8
+Supercell Transformation Matrix: 
+ 0  1  4
+ 1 -1  0
+ 0  1 -4
+Supercell Name: 'SCEL8_4_2_1_0_0_2' Number: 46 Volume: 8
+Supercell Transformation Matrix: 
+ 0  2  2
+ 0 -2  2
+ 1  0 -2
+Supercell Name: 'SCEL8_4_1_2_0_1_0' Number: 47 Volume: 8
+Supercell Transformation Matrix: 
+ 0  1  3
+ 1 -1  0
+ 0  2 -2
+Supercell Name: 'SCEL8_4_2_1_1_3_1' Number: 48 Volume: 8
+Supercell Transformation Matrix: 
+-1  0  2
+ 1 -2  1
+ 1  2 -1
+Supercell Name: 'SCEL8_8_1_1_0_5_2' Number: 49 Volume: 8
+Supercell Transformation Matrix: 
+-1  0  2
+ 1 -1  1
+ 1  2  0
+Supercell Name: 'SCEL8_4_1_2_0_0_1' Number: 50 Volume: 8
+Supercell Transformation Matrix: 
+-1  1  2
+-1  1 -2
+ 0 -2  0
+Supercell Name: 'SCEL8_2_4_1_1_1_0' Number: 51 Volume: 8
+Supercell Transformation Matrix: 
+ 1  2  0
+-1  0 -2
+-1  0  2
+Supercell Name: 'SCEL8_8_1_1_0_0_7' Number: 52 Volume: 8
+Supercell Transformation Matrix: 
+ 0 -1 -4
+ 0  1 -4
+ 1  0  4
+Supercell Name: 'SCEL8_4_2_1_1_3_2' Number: 53 Volume: 8
+Supercell Transformation Matrix: 
+-1  1  2
+ 1 -1  2
+ 1  1 -2
+Supercell Name: 'SCEL8_2_2_2_0_0_0' Number: 54 Volume: 8
+Supercell Transformation Matrix: 
+2 0 0
+0 2 0
+0 0 2

@@ -1,0 +1,11 @@
+/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vaspwrapper/vaspwrapper.py:195: VaspWarning: No reference POSCAR file found in CASM project. I hope your KPOINTS mode is A/AUTO/Automatic or this will fail!
+  warnings.warn("No reference POSCAR file found in CASM project. I hope your KPOINTS mode is A/AUTO/Automatic or this will fail!", vasp.VaspWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vaspwrapper/relax.py", line 443, in run
+    write_settings(self.settings, settingsfile)
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/site-packages/casm/vaspwrapper/vaspwrapper.py", line 125, in write_settings
+    file.write(six.u(json.dump( settings, file, indent=4)).encode('utf-8'))
+  File "/home/dober/miniconda3/envs/casm/lib/python3.6/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+TypeError: a bytes-like object is required, not 'str'
