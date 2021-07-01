@@ -90,11 +90,11 @@ labels = []
 plt.title(title, fontsize=30)
 plt.xlabel(r'Composition $\frac{N}{Hf}}$', fontsize=20)
 plt.ylabel(r'Energy $\frac{eV}{prim}$', fontsize=20)
-plt.plot(dft_hull_data[:,1], dft_hull_data[:,4],marker='o', color='xkcd:crimson')
+plt.plot(dft_hull_data[:,1], dft_hull_data[:,5],marker='o', color='xkcd:crimson')
 labels.append('DFT Hull')
-plt.plot(clex_hull_data[:,1], clex_hull_data[:,7],marker='o',linestyle='dashed' ,  color='b')
+plt.plot(clex_hull_data[:,1], clex_hull_data[:,8],marker='o',linestyle='dashed' ,  color='b')
 labels.append('ClEx Hull')
-plt.scatter(dft_hull_data[:,1], dft_hull_data[:,7], color='k')
+plt.scatter(dft_hull_data[:,1], dft_hull_data[:,8], color='k')
 labels.append('Clex Prediction of DFT Hull')
 
     
