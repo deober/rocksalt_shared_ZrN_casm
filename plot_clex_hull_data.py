@@ -88,7 +88,7 @@ labels = []
 
 #plots our relevant data
 plt.title(title, fontsize=30)
-plt.xlabel(r'Composition $\frac{N}{Hf}}$', fontsize=20)
+plt.xlabel(r'Composition $\frac{N}{Zr}}$', fontsize=20)
 plt.ylabel(r'Energy $\frac{eV}{prim}$', fontsize=20)
 plt.plot(dft_hull_data[:,1], dft_hull_data[:,5],marker='o', color='xkcd:crimson')
 labels.append('DFT Hull')
