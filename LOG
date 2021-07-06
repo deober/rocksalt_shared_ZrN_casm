@@ -2092,3 +2092,419 @@ casm query -k
 casm query -k corr 
 # return: 0 runtime(s): 1.26609
 
+# 2021-06-30 16:28:17
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 1.14288
+
+# 2021-06-30 16:28:18
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.089883
+
+# 2021-06-30 16:28:18
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.115946
+
+# 2021-06-30 16:28:18
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.002519
+
+# 2021-06-30 16:28:18
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.537652
+
+# 2021-06-30 16:28:19
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00359915
+
+# 2021-06-30 16:28:21
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 1.47576
+
+# 2021-06-30 16:32:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k formation_energy is_calculated corr hull_dist(CALCULATED,atom_frac)  -c /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits/training_set.txt -t config -v -o STDOUT 
+# return: 0 runtime(s): 1.27262
+
+# 2021-06-30 16:36:50
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 1.32261
+
+# 2021-06-30 16:38:00
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 1.08835
+
+# 2021-06-30 16:38:01
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0682966
+
+# 2021-06-30 16:38:01
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.117114
+
+# 2021-06-30 16:38:01
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00328884
+
+# 2021-06-30 16:38:01
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.321038
+
+# 2021-06-30 16:38:02
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00458476
+
+# 2021-06-30 16:38:08
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 1.47855
+
+# 2021-06-30 16:39:04
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm bset -uf 
+# return: 0 runtime(s): 55.8559
+
+# 2021-06-30 16:52:09
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 2.09312
+
+# 2021-06-30 16:52:11
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0825267
+
+# 2021-06-30 16:52:11
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.134098
+
+# 2021-06-30 16:52:11
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00554624
+
+# 2021-06-30 16:52:11
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.457267
+
+# 2021-06-30 16:52:12
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00641412
+
+# 2021-06-30 16:52:15
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 2.2835
+
+# 2021-06-30 16:54:13
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.947312
+
+# 2021-06-30 16:54:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0559548
+
+# 2021-06-30 16:54:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0959181
+
+# 2021-06-30 16:54:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00455774
+
+# 2021-06-30 16:54:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.324051
+
+# 2021-06-30 16:54:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00385028
+
+# 2021-06-30 16:54:17
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 1.29146
+
+# 2021-06-30 16:57:55
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 1.10578
+
+# 2021-06-30 16:57:56
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.077035
+
+# 2021-06-30 16:57:56
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.126578
+
+# 2021-06-30 16:57:56
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.0040502
+
+# 2021-06-30 16:57:56
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.35147
+
+# 2021-06-30 16:57:57
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00503342
+
+# 2021-06-30 16:57:59
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 1.33225
+
+# 2021-06-30 16:58:42
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 0.936648
+
+# 2021-06-30 16:58:43
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0563202
+
+# 2021-06-30 16:58:43
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0955514
+
+# 2021-06-30 16:58:43
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.0049577
+
+# 2021-06-30 16:58:44
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.321452
+
+# 2021-06-30 16:58:44
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00413205
+
+# 2021-06-30 16:58:46
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 1.53608
+
+# 2021-06-30 17:00:10
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm select -c ALL --set-off not(is_calculated) -f -o /Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft 
+# return: 0 runtime(s): 1.03517
+
+# 2021-06-30 17:00:11
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k name selected  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.0611527
+
+# 2021-06-30 17:00:11
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp is_calculated configname hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft,atom_frac) formation_energy is_primitive  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.105453
+
+# 2021-06-30 17:00:12
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --new-eci __tmp 
+# return: 0 runtime(s): 0.00601595
+
+# 2021-06-30 17:00:12
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k clex_hull_dist(ALL,atom_frac) clex(formation_energy) clex_hull_dist(/Volumes/DeoResearch/experiments/rocksalt_shared_ZrN_casm/.casm/tmp/ALL_dft_hull,atom_frac)  -c ALL -t config -v -o STDOUT 
+# return: 0 runtime(s): 0.360081
+
+# 2021-06-30 17:00:12
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm settings --set-eci default 
+# return: 0 runtime(s): 0.00432363
+
+# 2021-06-30 17:00:14
+# derickober@Dericks-MBP-2
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 0 runtime(s): 1.64139
+
+# 2021-07-06 11:05:36
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.878165
+
+# 2021-07-06 11:05:38
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.848004
+
+# 2021-07-06 11:05:40
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.841819
+
+# 2021-07-06 11:05:44
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.841751
+
+# 2021-07-06 11:05:46
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.852243
+
+# 2021-07-06 11:05:48
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.877948
+
+# 2021-07-06 11:05:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.84371
+
+# 2021-07-06 11:05:53
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.858304
+
+# 2021-07-06 11:05:55
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.852696
+
+# 2021-07-06 11:05:58
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.855857
+
+# 2021-07-06 11:06:00
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.856923
+
+# 2021-07-06 11:06:02
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.857904
+
+# 2021-07-06 11:06:05
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.858813
+
+# 2021-07-06 11:06:07
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# 2021-07-06 11:06:51
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.849313
+
+# 2021-07-06 11:06:54
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.854721
+
+# 2021-07-06 11:06:56
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
+# return: 2 runtime(s): 0.849449
+
+# 2021-07-06 11:06:58
+# derick@derick-X570-AORUS-MASTER
+# 1.1.2
+casm query -k comp formation_energy hull_dist clex clex_hull_dist -o full_formation_energies.txt 
