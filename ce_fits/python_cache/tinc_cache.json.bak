@@ -10,618 +10,6 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_0.1_0.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_0.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_0.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_1.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_1.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_1.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_2.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_2.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
                         "filename": "ps_make_graph_0.1_0.0_0.05500000000000001_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
@@ -661,7 +49,7 @@
                         "value": 0.0
                     },
                     {
-                        "id": "C",
+                        "id": "kT",
                         "nctype": 6,
                         "value": 0.05500000000000001
                     }
@@ -671,7 +59,7 @@
                     {
                         "file": {
                             "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
                             "rootPath": "",
                             "protocolId": "python"
                         },
@@ -690,7 +78,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_1.05_0.0_0.05500000000000001_cache.pkl",
+                        "filename": "ps_make_graph_0.1_0.0_0.1_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -721,7 +109,7 @@
                     {
                         "id": "A",
                         "nctype": 6,
-                        "value": 1.05
+                        "value": 0.1
                     },
                     {
                         "id": "B",
@@ -729,9 +117,9 @@
                         "value": 0.0
                     },
                     {
-                        "id": "C",
+                        "id": "kT",
                         "nctype": 6,
-                        "value": 0.05500000000000001
+                        "value": 0.1
                     }
                 ],
                 "dependencies": [],
@@ -739,7 +127,7 @@
                     {
                         "file": {
                             "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
                             "rootPath": "",
                             "protocolId": "python"
                         },
@@ -758,7 +146,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_2.0_0.0_0.05500000000000001_cache.pkl",
+                        "filename": "ps_make_graph_0.1_0.0_0.01_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -789,7 +177,7 @@
                     {
                         "id": "A",
                         "nctype": 6,
-                        "value": 2.0
+                        "value": 0.1
                     },
                     {
                         "id": "B",
@@ -797,9 +185,9 @@
                         "value": 0.0
                     },
                     {
-                        "id": "C",
+                        "id": "kT",
                         "nctype": 6,
-                        "value": 0.05500000000000001
+                        "value": 0.01
                     }
                 ],
                 "dependencies": [],
@@ -807,7 +195,7 @@
                     {
                         "file": {
                             "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
                             "rootPath": "",
                             "protocolId": "python"
                         },
@@ -826,7 +214,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_0.1_1.0_0.05500000000000001_cache.pkl",
+                        "filename": "ps_make_graph_0.1_1.0_0.1_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -865,9 +253,9 @@
                         "value": 1.0
                     },
                     {
-                        "id": "C",
+                        "id": "kT",
                         "nctype": 6,
-                        "value": 0.05500000000000001
+                        "value": 0.1
                     }
                 ],
                 "dependencies": [],
@@ -875,7 +263,7 @@
                     {
                         "file": {
                             "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
                             "rootPath": "",
                             "protocolId": "python"
                         },
@@ -894,143 +282,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_1.05_1.0_0.05500000000000001_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.05500000000000001
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_1.0_0.05500000000000001_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.05500000000000001
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_0.05500000000000001_cache.pkl",
+                        "filename": "ps_make_graph_0.1_2.0_0.1_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -1069,9 +321,9 @@
                         "value": 2.0
                     },
                     {
-                        "id": "C",
+                        "id": "kT",
                         "nctype": 6,
-                        "value": 0.05500000000000001
+                        "value": 0.1
                     }
                 ],
                 "dependencies": [],
@@ -1079,7 +331,7 @@
                     {
                         "file": {
                             "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
                             "rootPath": "",
                             "protocolId": "python"
                         },
@@ -1098,7 +350,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_1.05_2.0_0.05500000000000001_cache.pkl",
+                        "filename": "ps_make_graph_1.05_0.0_0.1_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -1134,12 +386,12 @@
                     {
                         "id": "B",
                         "nctype": 6,
-                        "value": 2.0
+                        "value": 0.0
                     },
                     {
-                        "id": "C",
+                        "id": "kT",
                         "nctype": 6,
-                        "value": 0.05500000000000001
+                        "value": 0.1
                     }
                 ],
                 "dependencies": [],
@@ -1147,7 +399,211 @@
                     {
                         "file": {
                             "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
+                            "rootPath": "",
+                            "protocolId": "python"
+                        },
+                        "modified": "",
+                        "size": 0,
+                        "hash": ""
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": {
+                "start": "a",
+                "end": "b"
+            },
+            "files": [
+                {
+                    "file": {
+                        "filename": "ps_make_graph_2.0_0.0_0.1_cache.pkl",
+                        "relativePath": "",
+                        "rootPath": "",
+                        "protocolId": ""
+                    },
+                    "modified": "",
+                    "size": 0,
+                    "hash": ""
+                }
+            ],
+            "cacheHits": 0,
+            "stale": false,
+            "userInfo": {
+                "userName": "name",
+                "userHash": "hash",
+                "ip": "ip",
+                "port": 9001,
+                "server": false
+            },
+            "sourceInfo": {
+                "type": "PythonInMemory",
+                "tincId": "ps_make_graph",
+                "commandLineArguments": "",
+                "workingPath": {
+                    "relativePath": "",
+                    "rootPath": ""
+                },
+                "arguments": [
+                    {
+                        "id": "A",
+                        "nctype": 6,
+                        "value": 2.0
+                    },
+                    {
+                        "id": "B",
+                        "nctype": 6,
+                        "value": 0.0
+                    },
+                    {
+                        "id": "kT",
+                        "nctype": 6,
+                        "value": 0.1
+                    }
+                ],
+                "dependencies": [],
+                "fileDependencies": [
+                    {
+                        "file": {
+                            "filename": "",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
+                            "rootPath": "",
+                            "protocolId": "python"
+                        },
+                        "modified": "",
+                        "size": 0,
+                        "hash": ""
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": {
+                "start": "a",
+                "end": "b"
+            },
+            "files": [
+                {
+                    "file": {
+                        "filename": "ps_make_graph_2.0_1.0_0.1_cache.pkl",
+                        "relativePath": "",
+                        "rootPath": "",
+                        "protocolId": ""
+                    },
+                    "modified": "",
+                    "size": 0,
+                    "hash": ""
+                }
+            ],
+            "cacheHits": 0,
+            "stale": false,
+            "userInfo": {
+                "userName": "name",
+                "userHash": "hash",
+                "ip": "ip",
+                "port": 9001,
+                "server": false
+            },
+            "sourceInfo": {
+                "type": "PythonInMemory",
+                "tincId": "ps_make_graph",
+                "commandLineArguments": "",
+                "workingPath": {
+                    "relativePath": "",
+                    "rootPath": ""
+                },
+                "arguments": [
+                    {
+                        "id": "A",
+                        "nctype": 6,
+                        "value": 2.0
+                    },
+                    {
+                        "id": "B",
+                        "nctype": 6,
+                        "value": 1.0
+                    },
+                    {
+                        "id": "kT",
+                        "nctype": 6,
+                        "value": 0.1
+                    }
+                ],
+                "dependencies": [],
+                "fileDependencies": [
+                    {
+                        "file": {
+                            "filename": "",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
+                            "rootPath": "",
+                            "protocolId": "python"
+                        },
+                        "modified": "",
+                        "size": 0,
+                        "hash": ""
+                    }
+                ]
+            }
+        },
+        {
+            "timestamp": {
+                "start": "a",
+                "end": "b"
+            },
+            "files": [
+                {
+                    "file": {
+                        "filename": "ps_make_graph_2.0_2.0_0.1_cache.pkl",
+                        "relativePath": "",
+                        "rootPath": "",
+                        "protocolId": ""
+                    },
+                    "modified": "",
+                    "size": 0,
+                    "hash": ""
+                }
+            ],
+            "cacheHits": 0,
+            "stale": false,
+            "userInfo": {
+                "userName": "name",
+                "userHash": "hash",
+                "ip": "ip",
+                "port": 9001,
+                "server": false
+            },
+            "sourceInfo": {
+                "type": "PythonInMemory",
+                "tincId": "ps_make_graph",
+                "commandLineArguments": "",
+                "workingPath": {
+                    "relativePath": "",
+                    "rootPath": ""
+                },
+                "arguments": [
+                    {
+                        "id": "A",
+                        "nctype": 6,
+                        "value": 2.0
+                    },
+                    {
+                        "id": "B",
+                        "nctype": 6,
+                        "value": 2.0
+                    },
+                    {
+                        "id": "kT",
+                        "nctype": 6,
+                        "value": 0.1
+                    }
+                ],
+                "dependencies": [],
+                "fileDependencies": [
+                    {
+                        "file": {
+                            "filename": "",
+                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
                             "rootPath": "",
                             "protocolId": "python"
                         },
@@ -1205,2182 +661,6 @@
                         "value": 2.0
                     },
                     {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.05500000000000001
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_0.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_0.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_0.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_1.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_1.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_1.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_2.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_2.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/Volumes/DeoResearch/experiments/rocksalt3_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_0.0_0.55_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 0.55
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_0.0_1.0_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 1.0
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_1.0_1.0_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 1.0
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_1.0_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "C",
-                        "nctype": 6,
-                        "value": 1.0
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_0.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_0.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_0.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_1.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_0.55_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.55
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_1.0_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 1.0
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_1.0_0.55_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.55
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_0.0_0.55_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.55
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_2.0_0.55_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.55
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_2.0_0.55_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.55
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_0.0_1.0_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 1.0
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_1.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_2.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_0.0_0.55_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.55
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_1.05_0.0_1.0_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 1.05
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 1.0
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_1.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_2.0_0.1_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.1
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_0.0_0.05500000000000001_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
                         "id": "kT",
                         "nctype": 6,
                         "value": 0.05500000000000001
@@ -3410,7 +690,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_0.1_0.0_0.01_cache.pkl",
+                        "filename": "ps_make_graph_2.0_2.0_0.01_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -3441,143 +721,7 @@
                     {
                         "id": "A",
                         "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_1.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.01
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
+                        "value": 2.0
                     },
                     {
                         "id": "B",
@@ -3614,7 +758,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_1.05_0.0_0.01_cache.pkl",
+                        "filename": "ps_make_graph_2.0_1.0_0.01_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -3645,12 +789,12 @@
                     {
                         "id": "A",
                         "nctype": 6,
-                        "value": 1.05
+                        "value": 2.0
                     },
                     {
                         "id": "B",
                         "nctype": 6,
-                        "value": 0.0
+                        "value": 1.0
                     },
                     {
                         "id": "kT",
@@ -3750,7 +894,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_1.05_0.0_0.05500000000000001_cache.pkl",
+                        "filename": "ps_make_graph_1.05_0.0_0.01_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -3791,7 +935,7 @@
                     {
                         "id": "kT",
                         "nctype": 6,
-                        "value": 0.05500000000000001
+                        "value": 0.01
                     }
                 ],
                 "dependencies": [],
@@ -3818,75 +962,7 @@
             "files": [
                 {
                     "file": {
-                        "filename": "ps_make_graph_2.0_0.0_0.05500000000000001_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 0.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.05500000000000001
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_1.0_0.05500000000000001_cache.pkl",
+                        "filename": "ps_make_graph_0.1_1.0_0.01_cache.pkl",
                         "relativePath": "",
                         "rootPath": "",
                         "protocolId": ""
@@ -3918,142 +994,6 @@
                         "id": "A",
                         "nctype": 6,
                         "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 1.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.05500000000000001
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_0.1_2.0_0.05500000000000001_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 0.1
-                    },
-                    {
-                        "id": "B",
-                        "nctype": 6,
-                        "value": 2.0
-                    },
-                    {
-                        "id": "kT",
-                        "nctype": 6,
-                        "value": 0.05500000000000001
-                    }
-                ],
-                "dependencies": [],
-                "fileDependencies": [
-                    {
-                        "file": {
-                            "filename": "",
-                            "relativePath": "/media/derick/DeoResearch/experiments/rocksalt_shared_ZrN_casm/ce_fits",
-                            "rootPath": "",
-                            "protocolId": "python"
-                        },
-                        "modified": "",
-                        "size": 0,
-                        "hash": ""
-                    }
-                ]
-            }
-        },
-        {
-            "timestamp": {
-                "start": "a",
-                "end": "b"
-            },
-            "files": [
-                {
-                    "file": {
-                        "filename": "ps_make_graph_2.0_1.0_0.01_cache.pkl",
-                        "relativePath": "",
-                        "rootPath": "",
-                        "protocolId": ""
-                    },
-                    "modified": "",
-                    "size": 0,
-                    "hash": ""
-                }
-            ],
-            "cacheHits": 0,
-            "stale": false,
-            "userInfo": {
-                "userName": "name",
-                "userHash": "hash",
-                "ip": "ip",
-                "port": 9001,
-                "server": false
-            },
-            "sourceInfo": {
-                "type": "PythonInMemory",
-                "tincId": "ps_make_graph",
-                "commandLineArguments": "",
-                "workingPath": {
-                    "relativePath": "",
-                    "rootPath": ""
-                },
-                "arguments": [
-                    {
-                        "id": "A",
-                        "nctype": 6,
-                        "value": 2.0
                     },
                     {
                         "id": "B",
